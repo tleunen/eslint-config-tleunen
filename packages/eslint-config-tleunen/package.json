@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-tleunen",
+  "version": "0.1.0",
+  "description": "Eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleunen/eslint-config-tleunen.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "author": "Tommy Leunen <tommy.leunen@gmail.com> (http://tommyleunen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tleunen/eslint-config-tleunen/issues"
+  },
+  "homepage": "https://github.com/tleunen/eslint-config-tleunen#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.12.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
