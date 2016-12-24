@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/tleunen/eslint-config-tleunen#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^13.0.0"
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-tleunen": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
