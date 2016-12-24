@@ -1,7 +1,7 @@
 module.exports = {
     extends: [
         'eslint-config-airbnb',
-        '../eslint-config-tleunen/rules/override',
+        'eslint-config-tleunen/rules/override',
     ].map(require.resolve),
     env: {
         browser: true,
