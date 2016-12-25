@@ -8,4 +8,9 @@ module.exports = {
             ignoreTemplateLiterals: true,
         }],
     },
+    settings: {
+        'import/resolver': {
+            'babel-module': {},
+        },
+    },
 };
